@@ -1,0 +1,8 @@
+{
+    "name": "user/tienda-toys",
+    "description": "proyecto PHP",
+    "type": "project",   
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

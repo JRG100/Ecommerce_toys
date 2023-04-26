@@ -1,0 +1,25 @@
+@media (min-width: 768px) {
+    .navegacion {
+        display: flex;
+        gap: 2rem;
+    }
+}
+
+.navegacion__enlace:hover {
+    transform: scale(1.1);
+    color: blue
+}
+
+.alert_green{
+    color:green;
+}
+
+.alert_red{
+    color:red;
+}
+
+
+.tamaño{
+    height: 30px !important;
+    width: 30px !important;
+}
